@@ -25,7 +25,7 @@ O **GameVerse** é uma aplicação web moderna que reúne os principais jogos e 
 
 ## 🖼️ Preview
 
-![Preview do projeto](./IMG/preview.png)
+![Preview do projeto](./IMG/PREVIL.png)
 
 ---
 
